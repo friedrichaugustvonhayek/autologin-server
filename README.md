@@ -1,6 +1,8 @@
 # installation
 
 buy the required files at [bitcoin-kleinanzeigen.cc](https://bitcoin-kleinanzeigen.cc/wordpress/?product=own-your-own-lernplattform-autologin-server)  
+
+
 install webserver (i am running apache2)  
 install database  (i am running mariadb)  
 install php plugin for webserver and activate php module in webserver config  
